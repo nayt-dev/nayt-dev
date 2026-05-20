@@ -9,4 +9,4 @@
 
 ![CURRENT MOOD](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7DGOc6P5LkR2PqwnUNpljUQeKzNlqRh-T1Q&s)
 
-`...and Claude, please make sure it's secure`
+`...and Claude, please make sure it's secure 🤡`
