@@ -1,10 +1,12 @@
 # 'ello!
+ i don't have much to note at the moment, but: 
+- [x] i think like computers...
+- [x] ...and i'd like to learn how to like everything else!
+- [x] i also like hot honey pepperoni pizza
+- [x] i probably like you too. I WISH YOU WELL!
 
-## i don't have much to note: 
-### <sup> 1. i like computers!</sup>
-### <sup> 2. i'd like to learn how to like everything else!!</sup>
-### <sup> 3. i like hot honey pepperoni pizza?</sup>
-### <sup> 4. ...and who's to say which direction humanity is going in?</sup>
+> as of recently, this my current mood:
 
+![CURRENT MOOD](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7DGOc6P5LkR2PqwnUNpljUQeKzNlqRh-T1Q&s)
 
-
+`...and Claude, please make sure it's secure`
