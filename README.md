@@ -8,7 +8,7 @@
 
 > as of recently, this my current mood:
 
-> ![CURRENT MOOD](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3dAG5pU_bpaSGRcBwsjXHICjJNF1nC3NnFbHmvo_Ta57S2QvxcUKCR1M&s=10)
+> ![CURRENT MOOD](https://i.pinimg.com/736x/12/ea/bc/12eabcd4780802e163d41872f938abc1.jpg)
 
 `...and Claude, please make sure it's secure 🤡`
 
