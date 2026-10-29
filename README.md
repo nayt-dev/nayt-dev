@@ -6,10 +6,9 @@
 - [x] i also like hot honey pepperoni pizza
 - [x] i probably like you too. I WISH YOU WELL!
 
-> as of recently, this my current mood:
+> > as of recently, this my current mood:
 
-> ![CURRENT MOOD](https://i.pinimg.com/736x/12/ea/bc/12eabcd4780802e163d41872f938abc1.jpg)
-
+> > <img src="https://i.pinimg.com/736x/12/ea/bc/12eabcd4780802e163d41872f938abc1.jpg" width="400" alt="CURRENT MOOD">
 `...and Claude, please make sure it's secure 🤡`
 
 "𝙻𝙸𝚅𝙸𝙽𝙶 𝚆𝙸𝚃𝙷𝙾𝚄𝚃 𝙿𝙰𝚂𝚂𝙸𝙾𝙽 𝙸𝚂 𝙻𝙸𝙺𝙴 𝙱𝙴𝙸𝙽𝙶 𝙳𝙴𝙰𝙳"
